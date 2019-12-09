@@ -1,6 +1,8 @@
 # Hand-Written-Urdu-Character-Recognition-using-DenseNet121
 
-Open the folder with train, valid and test folders with images
+Download the dataset from the Google drive.
+
+Place the all the folders within the folder where the densenet121.py and arguments.py are placed.
 
 Run densenet121.py from cmd or spyder IDE
 
