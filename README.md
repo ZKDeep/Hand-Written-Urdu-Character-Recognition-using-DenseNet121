@@ -1,6 +1,6 @@
 # Hand-Written-Urdu-Character-Recognition-using-DenseNet121
 
-Download the dataset from the Google drive.
+Download the dataset from the Google drive. ( https://drive.google.com/file/d/1_ETFKY_vACIgQWDw_Km6Ggq9lVKFO92a/view?usp=sharing )
 
 Place the all the folders within the folder where the densenet121.py and arguments.py are placed.
 
